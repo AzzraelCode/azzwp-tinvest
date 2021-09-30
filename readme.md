@@ -3,6 +3,7 @@
 Плагин для Wordpress для экспорта сделок, открытых позиций, денег и прочего с брокерского аккаунта
 в Тинькофф Инвестиции через API в Google Sheets. 
 
+- Видео с описанием [устройства плагина](https://youtu.be/Zt0-dOg4CG0). В нем как установить плагин, зависимости и что можно изменить.
 - В работе плагин смотри в [здесь](https://azzrael.ru/tinvest-export).
 - Описание работы в видео на канале [Azzrael Code](https://www.youtube.com/channel/UCf6kozNejHoQuFhBDB8cfxA) на YouTube.
 
